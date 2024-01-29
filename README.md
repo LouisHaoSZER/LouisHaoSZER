@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![L's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisHaoSZER&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![L's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisHaoSZER&show_icons=true&theme=radical&count_private=true)
 
 
 
